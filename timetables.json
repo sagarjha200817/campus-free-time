@@ -1,0 +1,28 @@
+{
+  "people": [
+    {
+      "name": "Sagar Jha",
+      "section": "IT-1",
+      "schedule": {
+        "Monday": { "9:00": "Math Lecture", "10:00": "Physics Lab", "11:00": "Free", "12:00": "Lunch", "1:00": "CP Lab", "2:00": "Free", "3:00": "Free", "4:00": "Free" },
+        "Tuesday": { "9:00": "Free", "10:00": "Free", "11:00": "Data Structures", "12:00": "Lunch", "1:00": "Free", "2:00": "Free", "3:00": "Electronics", "4:00": "Free" }
+      }
+    },
+    {
+      "name": "Abhishek",
+      "section": "EE-2",
+      "schedule": {
+        "Monday": { "9:00": "Math Lecture", "10:00": "Physics Lab", "11:00": "Free", "12:00": "Lunch", "1:00": "Free", "2:00": "Free", "3:00": "Free", "4:00": "Library" },
+        "Tuesday": { "9:00": "Free", "10:00": "Data Structures", "11:00": "Data Structures", "12:00": "Lunch", "1:00": "CP Lab", "2:00": "Free", "3:00": "Free", "4:00": "Free" }
+      }
+    },
+    {
+      "name": "ABHINAV",
+      "section": "ECE",
+      "schedule": {
+        "Monday": { "9:00": "Free", "10:00": "Free", "11:00": "Electronics", "12:00": "Lunch", "1:00": "CP Lab", "2:00": "Free", "3:00": "Free", "4:00": "Free" },
+        "Tuesday": { "9:00": "Math Lecture", "10:00": "Math Lecture", "11:00": "Free", "12:00": "Lunch", "1:00": "Free", "2:00": "Free", "3:00": "Free", "4:00": "Sports" }
+      }
+    }
+  ]
+}
