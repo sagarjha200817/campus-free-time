@@ -599,7 +599,7 @@
     // Records: (a) Global CounterAPI hit count, (b) Local audit log, (c) Optional Webhook (Discord/Google Sheet)
     // =========================================================================
     // Default cloud webhook can be hardcoded right here by Sagar so every user on GitHub Pages sends logs automatically:
-    const DEFAULT_CLOUD_WEBHOOK = "const DEFAULT_CLOUD_WEBHOOK = "YOUR_WEBHOOK_URL_HERE";"; 
+    const DEFAULT_CLOUD_WEBHOOK = ""; 
     let webhookUrl = localStorage.getItem("nsutPulseWebhook") || DEFAULT_CLOUD_WEBHOOK;
     let usageLogs = JSON.parse(localStorage.getItem("nsutPulseLogs")) || [];
 
